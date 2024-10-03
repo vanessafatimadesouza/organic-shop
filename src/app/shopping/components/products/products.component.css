@@ -1,0 +1,11 @@
+.product-card {
+    width: 450px; /* Defina a largura desejada */
+    height: 400px; /* Defina a altura desejada */
+    overflow: hidden; /* Para ocultar o conteúdo que excede o tamanho */
+    border-radius: 8px; /* Opcional: para bordas arredondadas */
+    display: flex; /* Para alinhar o conteúdo dentro do card */
+    flex-direction: column; /* Para empilhar os elementos */
+    justify-content: space-between; /* Para distribuir espaço entre os elementos */
+    margin: 10px; /* Espaçamento entre os cards */
+    padding: 10px; /* Espaçamento interno */
+}
