@@ -1,0 +1,18 @@
+.thumbnail{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-size: cover;
+}
+
+.btn-primary {
+    background-color: #c1d62e;
+    border-color: #c1d62e;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    border-color: #c1d62e;
+    color: #c1d62e;
+}
