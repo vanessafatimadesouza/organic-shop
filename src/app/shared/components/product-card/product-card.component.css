@@ -1,0 +1,18 @@
+.card{
+    margin-bottom: 30px;
+}
+
+.card-footer{
+    padding: 0;
+}
+
+.card-footer button {
+    cursor: pointer;
+}
+
+.card-img-top {
+    width: 100%; /* Largura total do card */
+    height: 250px; /* Altura fixa para as imagens */
+    object-fit: cover; /* Cobre o espaço mantendo a proporção */
+    border-radius: 4px; /* Bordas arredondadas */
+}

@@ -1,0 +1,7 @@
+.btn {
+    width: 30px; /* Largura fixa para os botões */
+    height: 30px; /* Altura fixa para os botões */
+    display: flex; /* Para permitir o alinhamento */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+}
