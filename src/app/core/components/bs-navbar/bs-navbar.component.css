@@ -1,0 +1,17 @@
+.dropdown-toggle { 
+    cursor: pointer;
+  }
+
+.my-custom-badge {
+    background-color: #c1d62e; 
+    color: white;            
+    font-size: 13px;          
+    padding: 5px 10px;        
+    border-radius: 40%;       
+    min-width: 25px;          
+    height: 25px;             
+    display: inline-flex;     
+    justify-content: center;  
+    align-items: center;      
+    margin-left: 10px;
+}
